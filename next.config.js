@@ -1,0 +1,2 @@
+const nextConfig = { images: { remotePatterns: [{ protocol:'https',hostname:'**.cdninstagram.com'},{protocol:'https',hostname:'**.fbcdn.net'},{protocol:'https',hostname:'**.instagram.com'},{protocol:'https',hostname:'**.facebook.com'}] } };
+module.exports = nextConfig;
